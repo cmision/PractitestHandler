@@ -1,4 +1,5 @@
 # PractitestHandler
+by Carlo Mision
 
 This is a piece of code that takes 3 reports from Practitest:
 A.  Requirement Tabular Summary
